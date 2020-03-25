@@ -8,12 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My awesome react App 
+          My awesome react App. How you doing today?
         </p>
     
       </header>
     </div>
   );
 }
-
 export default App;
