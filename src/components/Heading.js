@@ -4,14 +4,14 @@ import Button from 'react-bootstrap/Button';
 function Heading(){
     return(
         <div>
-        <Jumbotron>
-            <h1>Hello, world!</h1>
+        <Jumbotron fluid style = {{'width': '100%', 'background': '#50A3A2'}} >
+            <h1 style = {{'font-weight':'bold'}}>Smart Attendance Beta</h1>
             <p>
-                This is a simple hero unit, a simple jumbotron-style component for calling
-                extra attention to featured content or information.
+                This is a simple tool for employees attending meetings remotely. This web application identifies your employment credentials by capturing your image and verifies it through a back-end algorithm that used supervised Learning AI Models such as Convolution Neural Networks.
             </p>
+            <p></p>
             <p>
-                <Button variant="primary">Learn more</Button>
+                <Button variant="primary">Proceed</Button>
             </p>
         </Jumbotron>
     </div>
