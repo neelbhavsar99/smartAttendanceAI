@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/smartAttendanceAI/static/css/main.708ee0ca.chunk.css",
-    "main.js": "/smartAttendanceAI/static/js/main.df451ea4.chunk.js",
-    "main.js.map": "/smartAttendanceAI/static/js/main.df451ea4.chunk.js.map",
-    "runtime-main.js": "/smartAttendanceAI/static/js/runtime-main.b62164af.js",
-    "runtime-main.js.map": "/smartAttendanceAI/static/js/runtime-main.b62164af.js.map",
+    "main.css": "/smartAttendanceAI/static/css/main.aeb054b7.chunk.css",
+    "main.js": "/smartAttendanceAI/static/js/main.65d71d1a.chunk.js",
+    "main.js.map": "/smartAttendanceAI/static/js/main.65d71d1a.chunk.js.map",
+    "runtime-main.js": "/smartAttendanceAI/static/js/runtime-main.f1aec441.js",
+    "runtime-main.js.map": "/smartAttendanceAI/static/js/runtime-main.f1aec441.js.map",
     "static/css/2.de424728.chunk.css": "/smartAttendanceAI/static/css/2.de424728.chunk.css",
-    "static/js/2.50a2332b.chunk.js": "/smartAttendanceAI/static/js/2.50a2332b.chunk.js",
-    "static/js/2.50a2332b.chunk.js.map": "/smartAttendanceAI/static/js/2.50a2332b.chunk.js.map",
+    "static/js/2.5ac54768.chunk.js": "/smartAttendanceAI/static/js/2.5ac54768.chunk.js",
+    "static/js/2.5ac54768.chunk.js.map": "/smartAttendanceAI/static/js/2.5ac54768.chunk.js.map",
     "index.html": "/smartAttendanceAI/index.html",
-    "precache-manifest.68274d5b2c117e328d305a6fee805fa2.js": "/smartAttendanceAI/precache-manifest.68274d5b2c117e328d305a6fee805fa2.js",
+    "precache-manifest.82c14461043bc7d9b8e5575878f10680.js": "/smartAttendanceAI/precache-manifest.82c14461043bc7d9b8e5575878f10680.js",
     "service-worker.js": "/smartAttendanceAI/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/smartAttendanceAI/static/css/2.de424728.chunk.css.map",
-    "static/css/main.708ee0ca.chunk.css.map": "/smartAttendanceAI/static/css/main.708ee0ca.chunk.css.map",
-    "static/js/2.50a2332b.chunk.js.LICENSE.txt": "/smartAttendanceAI/static/js/2.50a2332b.chunk.js.LICENSE.txt",
+    "static/css/main.aeb054b7.chunk.css.map": "/smartAttendanceAI/static/css/main.aeb054b7.chunk.css.map",
+    "static/js/2.5ac54768.chunk.js.LICENSE.txt": "/smartAttendanceAI/static/js/2.5ac54768.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/smartAttendanceAI/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b62164af.js",
+    "static/js/runtime-main.f1aec441.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.50a2332b.chunk.js",
-    "static/css/main.708ee0ca.chunk.css",
-    "static/js/main.df451ea4.chunk.js"
+    "static/js/2.5ac54768.chunk.js",
+    "static/css/main.aeb054b7.chunk.css",
+    "static/js/main.65d71d1a.chunk.js"
   ]
 }
